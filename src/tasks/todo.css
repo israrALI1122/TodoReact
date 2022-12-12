@@ -1,0 +1,6 @@
+.container  figure img{
+    width: 10%;
+    height: 10%;
+    border-radius: 70%;
+    object-fit: cover;
+}
